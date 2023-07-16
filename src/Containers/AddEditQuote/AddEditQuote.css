@@ -1,0 +1,43 @@
+.addEdit-quote-btn {
+    padding: 6px 30px;
+    margin: 0 auto;
+    display: block;
+    background: #57385b;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.addEdit-quote-title {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.form-submit-quote {
+    margin: 0 auto;
+    width: 290px;
+    background: linear-gradient(45deg, #f3dd14, #FF5722);
+    padding: 30px;
+}
+.author-input {
+    padding: 7px 10px;
+    margin: 0 auto;
+    display: block;
+    background: floralwhite;
+}
+.select-quotes {
+    margin: 0 auto;
+    padding: 5px;
+    display: block;
+    margin-bottom: 25px;
+    background: #607D8B;
+    color: white;
+}
+.title-textarea {
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 7px;
+    resize: none;
+    background: floralwhite;
+}
