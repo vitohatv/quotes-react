@@ -1,0 +1,32 @@
+.header {
+    padding: 15px;
+    background: rgb(39, 144, 170);
+}
+.header-links {
+    margin-left: 30px;
+}
+.header-logo {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.3s all ease-in;
+}
+.header-logo:hover {
+    color: #ffbf5d;
+    transition: 0.3s all ease-out;
+}
+.header-links-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.header-link {
+    margin-left: 30px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.3s all ease-in;
+}
+.header-link:hover {
+    color: #9ef5ff;
+    transition: 0.3s all ease-out;
+}
